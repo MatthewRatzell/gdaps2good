@@ -1,0 +1,11 @@
+C:\Users\ratze\source\repos\gdaps2good\PEs\MJR_OORefactoring\MJR_OORefactoring\bin\Debug\netcoreapp3.1\MJR_OORefactoring.exe
+C:\Users\ratze\source\repos\gdaps2good\PEs\MJR_OORefactoring\MJR_OORefactoring\bin\Debug\netcoreapp3.1\MJR_OORefactoring.deps.json
+C:\Users\ratze\source\repos\gdaps2good\PEs\MJR_OORefactoring\MJR_OORefactoring\bin\Debug\netcoreapp3.1\MJR_OORefactoring.runtimeconfig.json
+C:\Users\ratze\source\repos\gdaps2good\PEs\MJR_OORefactoring\MJR_OORefactoring\bin\Debug\netcoreapp3.1\MJR_OORefactoring.runtimeconfig.dev.json
+C:\Users\ratze\source\repos\gdaps2good\PEs\MJR_OORefactoring\MJR_OORefactoring\bin\Debug\netcoreapp3.1\MJR_OORefactoring.dll
+C:\Users\ratze\source\repos\gdaps2good\PEs\MJR_OORefactoring\MJR_OORefactoring\bin\Debug\netcoreapp3.1\MJR_OORefactoring.pdb
+C:\Users\ratze\source\repos\gdaps2good\PEs\MJR_OORefactoring\MJR_OORefactoring\obj\Debug\netcoreapp3.1\MJR_OORefactoring.csprojAssemblyReference.cache
+C:\Users\ratze\source\repos\gdaps2good\PEs\MJR_OORefactoring\MJR_OORefactoring\obj\Debug\netcoreapp3.1\MJR_OORefactoring.AssemblyInfoInputs.cache
+C:\Users\ratze\source\repos\gdaps2good\PEs\MJR_OORefactoring\MJR_OORefactoring\obj\Debug\netcoreapp3.1\MJR_OORefactoring.AssemblyInfo.cs
+C:\Users\ratze\source\repos\gdaps2good\PEs\MJR_OORefactoring\MJR_OORefactoring\obj\Debug\netcoreapp3.1\MJR_OORefactoring.dll
+C:\Users\ratze\source\repos\gdaps2good\PEs\MJR_OORefactoring\MJR_OORefactoring\obj\Debug\netcoreapp3.1\MJR_OORefactoring.pdb
